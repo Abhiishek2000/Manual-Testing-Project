@@ -98,4 +98,4 @@ Contributions are welcome! If you have suggestions or find issues, please fork t
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-Thank you for checking out this OpenCart testing project! We hope it serves as a valuable resource.
+Thank you for checking out this OpenCart testing project! I hope it serves as a valuable resource.
