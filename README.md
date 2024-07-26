@@ -46,11 +46,10 @@ The test cases were designed to cover all the functional and usability aspects o
 
 Bug reports were created for any issues found during testing. Below are some examples from the `05_OpenCart-BugReport.xlsx` file:
 
-- **Bug 1:** [BUG-001] Login button does not respond on the first click.
-- **Bug 2:** [BUG-002] Error message is not displayed for invalid login.
-- **Bug 3:** [BUG-003] UI elements overlap on smaller screens.
-- **Bug 4:** [BUG-004] Product images do not load on the product page.
-- **Bug 5:** [BUG-005] Checkout process fails with certain payment methods.
+- **Bug 1:** [BUG-001]'Thank you for registering' email is not received to the registered email address after registering an account
+- **Bug 2:** [BUG-002] User can register an account by providing an invalid phone number.
+- **Bug 3:** [BUG-003] 'Privacy Policy' Checkbox field in the 'Register Account' page is not marked with red color * symbol
+- **Bug 4:** [BUG-004] The 'Telephone' field in the 'Register Account' page is accepting the spaces and not showing a warning message.
 - **...**
 
 ## Contributing
@@ -61,5 +60,5 @@ If you have any feedback or suggestions for improvements, please feel free to op
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Thank you for checking out this manual testing project! We hope it serves as a valuable resource for understanding and improving the quality of [Manual Testing Project].
+Thank you for checking out this manual testing project! I hope it serves as a valuable resource for understanding and improving the quality of [Manual Testing Project].
 
