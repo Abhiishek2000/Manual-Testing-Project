@@ -6,7 +6,6 @@ This repository contains a list of all the projects completed during my manual t
 
 - **Project Name:** OpenCart Manual Testing
 - **Description:** Tested the OpenCart application for functionality, usability, and compatibility.
-- **Tools Used:** JIRA, GitHub
       
 ## Getting Started
 
