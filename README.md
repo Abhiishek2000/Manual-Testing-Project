@@ -2,6 +2,10 @@
 
 ## Project Overview
 This repository contains the manual testing project for OpenCart. The project includes comprehensive documentation, test plans, test scenarios, test cases, and bug reports to provide a thorough overview of the testing process.
+- **Project Name:** OpenCart Manual Testing
+- **Description:** Tested the OpenCart application for functionality, usability, and compatibility.
+- **Link:** 'https://demo.opencart.com/'
+
 
 ## Directory Structure
 - **`Documentation/`**: Contains project documentation and reports.
@@ -49,20 +53,28 @@ The test plan outlines the overall approach and objectives for the testing phase
 - **Risks and Mitigations**: Potential risks and how they will be addressed.
 
 ## Test Scenario
-Test scenarios provide a high-level overview of what needs to be tested. They help in designing detailed test cases. Examples include:
-- **User Login**: Test scenarios related to user authentication and access.
-- **Product Search**: Scenarios for searching and filtering products.
-- **Checkout Process**: Scenarios covering the entire checkout flow.
+Test scenarios provide a high-level overview of what needs to be tested. here we test the following features of the OpenCart demo application:
+- **User Register**: Verify the registration process for new users.
+- **User Login & Logout**: Test the login and logout functionality for users.
+- **Forgot Password**: Ensure that the password recovery process works as expected.
+- **Product Search**: Validate the product search functionality.
+- **Product Compare**: Check the product comparison feature.
+- **Product Display Page**: Ensure that the product display pages are rendered correctly.
+- **Add to Cart**: Test the functionality of adding products to the shopping cart.
+- **Wish List**: Verify the functionality of adding items to and managing the wish list.
 
 For a detailed list of test scenarios, refer to the `03_OpenCart_Test_Scenario` document.
 
 ## Test Cases and Execution
-Test cases are detailed descriptions of what to test and how to test it. They include:
-- **Test Case ID**
-- **Description**
-- **Steps**
-- **Expected Results**
-- **Actual Results**
+Test cases are detailed descriptions of what to test and how to test it.The test cases were designed to cover all the functional and usability aspects of the OpenCart application. Below are some examples from the `04_OpenCart_Testcases+TestExecution+Results.xlsx` file:
+
+- **Test Case 1:** Verify the login functionality with valid credentials.
+- **Test Case 2:** Verify the error message for invalid login attempts.
+- **Test Case 3:** Check the responsiveness of the application across different screen sizes.
+- **Test Case 4:** Verify the checkout process with valid payment details.
+- **Test Case 5:** Verify the search functionality with different keywords.
+- **Test Case 6:** Check the product addition to the cart.
+- **...**
 
 Execution results and overall test execution summaries are included in the `04_OpenCart_Testcases+TestExecution+Results` file.
 
@@ -86,9 +98,4 @@ Contributions are welcome! If you have suggestions or find issues, please fork t
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-For any queries or issues, please contact:
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-
-Thank you for checking out this OpenCart testing project! We hope it serves as a valuable resource for understanding and improving the quality of the OpenCart system.
+Thank you for checking out this OpenCart testing project! We hope it serves as a valuable resource.
