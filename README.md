@@ -8,10 +8,8 @@ This repository contains a list of all the projects completed during my manual t
 
 | Project Name | Description                                           | Tools Used                      |
 |--------------|-------------------------------------------------------|---------------------------------|
-| [Project 1](#project-1) | Tested a web application for functionality and usability. | JIRA, Selenium, TestRail        |
-| [Project 2](#project-2) | Tested a mobile application for compatibility across different devices. | Appium, TestLink                |
-| [Project 3](#project-3) | Tested a desktop application for security vulnerabilities. | Burp Suite, Nessus, ZAP         |
-
+| [Project 1](#project-1) | Tested a web application for functionality and usability. | JIRA, Scrum      |
+      
 ## Getting Started
 
 To view the details of each project, simply click on the project name in the table above. The project page will contain a brief description of the project as well as a list of tools used to complete the project.
@@ -38,58 +36,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ### Test Plan
 
 - **Project name:** What
-- ...
-
-### Test Cases
-
-...
-
-### Bug Report
-
-...
-
-### RTM
-
-...
-
-### Test Reports
-
-...
-
-### Test Metrics
-
-...
-
-## Project 2
-
-### Test Plan
-
-- ...
-
-### Test Cases
-
-...
-
-### Bug Report
-
-...
-
-### RTM
-
-...
-
-### Test Reports
-
-...
-
-### Test Metrics
-
-...
-
-## Project 3
-
-### Test Plan
-
 - ...
 
 ### Test Cases
